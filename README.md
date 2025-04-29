@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @77kavya77
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on software developers
 
 
